@@ -1,0 +1,7 @@
+{
+  "name": "Rasa Rasa Resto",
+  "description": "Authentic dining experience in Colomadu with a comfortable atmosphere and delicious local cuisine.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
